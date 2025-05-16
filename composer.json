@@ -1,4 +1,5 @@
 {
+  "version": "1.0.0",
   "name": "miteshp/custom-user-table",
   "description": "Display a user table at a custom endpoint",
   "type": "wordpress-plugin",
