@@ -1,0 +1,10 @@
+{
+    "redefinable-internals": [
+        "define", 
+        "include", 
+        "exit", 
+        "ob_start", 
+        "ob_get_clean", 
+        "ob_end_clean"
+    ]
+} 
